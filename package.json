@@ -10,5 +10,8 @@
     "test": "jasmine"
   },
   "author": "Ruth Nnochiri",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
 }
